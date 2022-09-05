@@ -22,9 +22,3 @@ Sou o Felipe, cursando Análise e Desenvolvimento de Sistemas e desenvolvedor Fr
     <img align="center" alt="html" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     <img align="center" alt="html" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 </div>
-
-### Já usei
-<div style="display: inline_block">
-    <img align="center" alt="html" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-    <img align="center" alt="html" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-</div>
