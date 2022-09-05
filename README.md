@@ -1,13 +1,16 @@
 ## Olá Pessoa 😄
 Sou o Felipe, cursando Análise e Desenvolvimento de Sistemas e desenvolvedor Front-End na Sptech =)
+- Jogos e livros são minhas paixões 🕹️
+- Curisoso por tecnologia 🖥️
+- Gosta de ensinar 📚
+
+#### Playlist de estudo/trabalho 🎵
+[![Playlist](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3gT5aUlybOmmSF9uebjSch?si=b51d39ad9c1347a4)
 
 ## Objetivos:
 - Melhorar em Vue e Js;
 - Aprender React;
 - Aprender Android;
-
-### Playlist de estudo/trabalho
-[![Playlist](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3gT5aUlybOmmSF9uebjSch?si=b51d39ad9c1347a4)
 
 ### O que eu sei
 <div style="display: inline_block">
