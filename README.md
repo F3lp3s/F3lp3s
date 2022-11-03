@@ -9,7 +9,7 @@ Sou o Felipe, cursando Análise e Desenvolvimento de Sistemas e desenvolvedor Fr
 
 ## Objetivos:
 - Melhorar em Vue e Js;
-- Aprender React;
+- Aprender TypeScript;
 - Aprender Android;
 
 ### O que eu sei
